@@ -1,0 +1,40 @@
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.runtimeconfig.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.runtimeconfig.dev.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.AssemblyReference.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.genruntimeconfig.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.runtimeconfig.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.runtimeconfig.dev.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.AssemblyReference.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.genruntimeconfig.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Application\obj\Debug\net5.0\refint\ProEventos.Application.dll

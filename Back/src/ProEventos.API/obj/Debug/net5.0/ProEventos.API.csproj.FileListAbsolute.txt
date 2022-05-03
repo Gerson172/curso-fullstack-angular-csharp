@@ -1,0 +1,191 @@
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\appsettings.Development.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\appsettings.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.API.exe
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.API.deps.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.API.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.AssemblyReference.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfo.cs
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CoreCompileInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\scopedcss\bundle\ProEventos.API.styles.css
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.RazorTargetAssemblyInfo.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Humanizer.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\appsettings.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API\obj\ProEventos.API.csproj.nuget.dgspec.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API\obj\project.assets.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.exe
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.deps.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ref\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Humanizer.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.csproj.AssemblyReference.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.AssemblyInfo.cs
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.csproj.CoreCompileInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\scopedcss\bundle\ProEventos.API.styles.css
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.RazorTargetAssemblyInfo.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ref\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNet V2\Sessao1\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.csproj.AssemblyReference.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.AssemblyInfo.cs
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.csproj.CoreCompileInputs.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ref\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\appsettings.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API\obj\ProEventos.API.csproj.nuget.dgspec.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API\obj\project.assets.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.exe
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.deps.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.API.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Humanizer.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\scopedcss\bundle\ProEventos.API.styles.css
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.RazorTargetAssemblyInfo.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.Api\obj\Debug\net5.0\refint\ProEventos.API.dll
+C:\CursosUdemy\ViniciusDeAndrade-SejaFullStackAspNetV2\PROEVENTOS\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.StaticWebAssets.xml
